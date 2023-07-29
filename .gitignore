@@ -1,0 +1,5 @@
+node_modules
+
+#js files
+package.json
+package-lock.json
